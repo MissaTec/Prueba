@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d399748f-6efa-4973-9273-721fa163d0ca" name="Prueba" url="http://cartelera.cimeira.edu.mx">
+        <fileTransfer rootFolder="/home/missael/cartelera" accessType="SFTP" host="74.208.160.210" port="22" sshConfigId="f8efa411-76f5-4973-8408-d2208324df8b" sshConfig="missael@74.208.160.210:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
